@@ -1,0 +1,2 @@
+# Tipcalculator
+Tipcalculator using javascript
